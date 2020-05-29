@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Transactions</string>
+    <string name="ezetap_transcation">Ezetap Transcation</string>
+    <string name="transcation_tool">Transcation Details</string>
+    <string name="card_type">Card Type</string>
+    <string name="reference">Reference</string>
+    <string name="transcation_data">Transcation Data</string>
+    <string name="amount">Amount</string>
+</resources>
